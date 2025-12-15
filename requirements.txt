@@ -17,4 +17,5 @@ starlette
 cachetools
 tqdm
 aiofiles
+httpx[socks]
 psutil
